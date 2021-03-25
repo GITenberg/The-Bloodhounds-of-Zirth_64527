@@ -11,12 +11,17 @@ contributor:
     deathdate: 2007
     gutenberg_agent_id: '33400'
     url: http://www.gutenberg.org/2009/agents/33400
+covers:
+- cover_type: archival
+  image_path: 64527-h/images/cover.jpg
 creator:
   author:
     agent_name: Palmer, Lloyd
     gutenberg_agent_id: '52942'
     url: http://www.gutenberg.org/2009/agents/52942
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64527#The-Bloodhounds-of-Zirth
 gutenberg_issued: '2021-02-12'
 gutenberg_type: Text
 identifiers:
